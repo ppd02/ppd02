@@ -12,10 +12,10 @@ I’m a B.Tech student currently pursuing Computer Science(Data Science) at SJB 
 
 ## 🏆 Achievements
 
-- 🥇 **Top 10** in Inter-College Hackathon on Data Analytics (2024)
-- 📊 Built a **dashboard with Tableau** that visualized Bangalore crime statistics – featured in college tech fair
-- 🧠 Successfully completed **Google Data Analytics Certificate** on Coursera
-- 🗃️ Created a **Crime Record Management System** using Flask and MongoDB as part of a mini project
+- 🥇 **Top 10** in Inter College Coding Competition **Refactor** in 2024
+- 📊 Secured **3rd Place** in DSA Challenge and AIdea Sprint, Technical event in SJBIT.
+- 🧠 Achieved **1st Place** in 12 hour hachathon **HackHive'25** organized by CBIT. 
+- 🗃️ Organized 24 hour hackathon **Code Carnage** with over 300+ participants and 80 teams.
 
 ---
 
