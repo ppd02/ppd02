@@ -1,12 +1,13 @@
 <!-- HEADER WITH TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Pranab+Prakash+Das;Software+Developer;AI%2FML+Engineer;Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Pranab+Prakash+Das!!;Software+Developer!!;AI%2FML+Engineer!!;Data+Analyst!!" />
 </h1>
 
 <p align="center">
   <a href="mailto:pranabpd02@gmail.com">Email</a> • 
   <a href="https://linkedin.com/in/pranab-pd">LinkedIn</a> • 
   <a href="https://leetcode.com/PPD002">LeetCode</a> • 
+  <a href="https://www.hackerrank.com/profile/pranabpd02">Hackerrank</a> • 
   <a href="https://www.credly.com/users/pranab-prakash-das">Credly</a>
 </p>
 
