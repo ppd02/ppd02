@@ -5,23 +5,23 @@
 
 <p align="center">
   <a href="mailto:pranabpd02@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png"/> Email
+    <img src="https://img.icons8.com/color/20/gmail-new.png"/> Email
   </a>
   &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/pranab-pd">
-    <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/> LinkedIn
+    <img src="https://img.icons8.com/color/20/linkedin.png"/> LinkedIn
   </a>
   &nbsp;•&nbsp;
   <a href="https://leetcode.com/PPD002">
-    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png"/> LeetCode
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> LeetCode
   </a>
   &nbsp;•&nbsp;
   <a href="https://www.hackerrank.com/profile/pranabpd02">
-    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/> HackerRank
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="20"/> HackerRank
   </a>
   &nbsp;•&nbsp;
   <a href="https://www.credly.com/users/pranab-prakash-das">
-    <img src="https://img.icons8.com/ios-filled/20/000000/certificate.png"/> Credly
+    <img src="https://img.icons8.com/color/20/certificate.png"/> Credly
   </a>
 </p>
 
