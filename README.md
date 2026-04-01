@@ -4,11 +4,25 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:pranabpd02@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/pranab-pd">LinkedIn</a> • 
-  <a href="https://leetcode.com/PPD002">LeetCode</a> • 
-  <a href="https://www.hackerrank.com/profile/pranabpd02">Hackerrank</a> • 
-  <a href="https://www.credly.com/users/pranab-prakash-das">Credly</a>
+  <a href="mailto:pranabpd02@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png"/> Email
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/pranab-pd">
+    <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/> LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/PPD002">
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png"/> LeetCode
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.hackerrank.com/profile/pranabpd02">
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/> HackerRank
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.credly.com/users/pranab-prakash-das">
+    <img src="https://img.icons8.com/ios-filled/20/000000/certificate.png"/> Credly
+  </a>
 </p>
 
 <hr>
