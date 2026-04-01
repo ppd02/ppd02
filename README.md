@@ -50,7 +50,63 @@ into production-ready environments.
 
 <!-- SKILLS -->
 <h2>Technical Skills</h2>
+<p><b>Languages</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
+<p><b>Backend Development</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
+
+<p><b>Databases</b></p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p><b>Core Computer Science</b></p>
+<p>
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOPs-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-0088CC?style=for-the-badge"/>
+</p>
+
+<p><b>AI / Machine Learning</b></p>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p><b>Data Analysis & Visualization</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+<p><b>Tools & Technologies</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+</p>
+
+
+<!--
 <p><b>Languages</b><br>
 Python • Java • SQL • C
 </p>
@@ -80,28 +136,43 @@ Git • GitHub • VS Code • Jupyter Notebook
 </p>
 
 <hr>
-
+  -->
 <!-- EXPERIENCE -->
 <h2>Experience</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3>Intern – ISRO</h3>
+<h3 style="margin-top:0;">Intern – ISRO</h3>
 <p><i>July 2025 – Aug 2025</i></p>
+
 <ul>
   <li>Developed a Python-based tool to analyze memory layout and padding in C structs/unions and Ada records.</li>
-  <li>Automated complex type resolution and memory analysis, significantly reducing manual debugging effort.</li>
+  <li>Automated type resolution and memory analysis, improving debugging efficiency.</li>
   <li>Worked on low-level system concepts including memory alignment and data representation.</li>
-  <li>Improved debugging efficiency through automation of memory inspection workflows.</li>
 </ul>
 
-<h3>Data Science Intern – Xcel Corp</h3>
+<br>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 style="margin-top:0;">Data Science Intern – Xcel Corp</h3>
 <p><i>Sep 2024 – Oct 2024</i></p>
+
 <ul>
-  <li>Preprocessed and cleaned datasets (1500+ rows) using Pandas and NumPy.</li>
+  <li>Preprocessed datasets (1500+ rows) using Pandas and NumPy.</li>
   <li>Worked on real-time image capture for emotion detection using OpenCV.</li>
-  <li>Performed exploratory data analysis (EDA) to support data-driven insights.</li>
+  <li>Performed exploratory data analysis (EDA) for data-driven insights.</li>
 </ul>
 
-<hr>
+<br>
+
+</td>
+</tr>
+</table>
+
 
 <!-- ACHIEVEMENTS -->
 <h2>Achievements</h2>
